@@ -17,11 +17,15 @@ This project applies basic Exploratory Data Analysis (EDA) techniques:
 - Extracting insights
 
 
+
+
 ## Files Included
 
 EDA_Superstore.ipynb → Jupyter Notebook containing the full EDA process
 
 sample - Superstore.csv → Dataset used for analysis
+
+
 
 
 ## Key Findings
