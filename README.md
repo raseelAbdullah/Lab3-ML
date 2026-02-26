@@ -8,19 +8,13 @@ RASEEL ABDULLAH ALJABR
 This project applies basic Exploratory Data Analysis (EDA) techniques:
 
 
-Data structure examination
-
-Handling missing values
-
-Removing duplicates
-
-Data visualization
-
-Correlation analysis
-
-Time trend analysis
-
-Extracting insights
+- Data structure examination
+- Handling missing values
+- Removing duplicates
+- Data visualization
+- Correlation analysis
+- Time trend analysis
+- Extracting insights
 
 
 ## Files Included
